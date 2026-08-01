@@ -2,5 +2,17 @@
 header{
 	height: 70px;
 	widgth: 100%;
-bckground: black;
+background: black;
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
+ul{
+	display: flex;
+	justify-content: space-between;
+	width: 33%;
+	
+}
+header a{
+	color: white;
+}s
